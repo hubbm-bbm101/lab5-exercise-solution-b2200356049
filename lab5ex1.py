@@ -11,5 +11,5 @@ for i in range(1,N+1):
         sumodds+=i
         numofodds+=1
         
-print("Sum of odds: ",sumodds/numoffodds)
+print("Sum of odds: ",sumodds/numofodds)
 print("Average of evens: ",sumevens/numofevens)        
